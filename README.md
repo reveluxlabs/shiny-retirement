@@ -10,7 +10,7 @@ This Dockerfile is based on Debian "testing" and r-base image.
 To run this Shiny App on your computer:
 
 ```sh
-docker run --rm -p 80:80 joshu/shiny-retirement
+docker run --rm -p 80:80 reveluxlabs/shiny-retirement
 ```
 
 and it will avaliable at http://127.0.0.1/ or http://localhost
