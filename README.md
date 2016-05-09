@@ -7,7 +7,7 @@ This shiny app is based on [one](https://systematicinvestor.wordpress.com/2012/0
 
 ## UI
 
-![Retirement UI](https:https://github.com/reveluxlabs/shiny-retirement/raw/master/retirement_ui.png "Retirement UI")
+![Retirement UI](https://github.com/reveluxlabs/shiny-retirement/blob/master/retirement_ui.png "Retirement UI")
 
 
 ## Usage:
